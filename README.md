@@ -1,25 +1,26 @@
 ##  HR Analystics Project : Employee Retention
 `` This is a HR Analytics Project having 6 KPIs solved by Advanced Excel,SQL,Tableau and PowerBI ``
 
-`` Dataset Name: HR_1 & HR_2
+`` Data Base Details: ``
+- Dataset Name: HR_1 & HR_2
 
-Dataset Type: Excel Data
+- Dataset Type: Excel Data
 
-Dataset Size: 50k records each
+- Dataset Size: 50k records each
 
 
-`` KPIs are 
-Average Attrition rate for all Departments
+`` KPIs are ``
+- Average Attrition rate for all Departments
 
-Average Hourly rate of Male Research Scientist
+- Average Hourly rate of Male Research Scientist
 
-Attrition rate Vs Monthly income stats
+- Attrition rate Vs Monthly income stats
 
-Average working years for each Department
+- Average working years for each Department
 
-Job Role Vs Work life balance
+- Job Role Vs Work life balance
 
-Attrition rate Vs Year since last promotion relation
+- Attrition rate Vs Year since last promotion relation
 
 
 
