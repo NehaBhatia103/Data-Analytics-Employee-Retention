@@ -1,5 +1,5 @@
 ##  HR Analystics Project : Employee Retention
-`` This is a HR Analytics Project having 6 KPIs solved by Advanced Excel,SQL,Tableau and PowerBI
+`` This is a HR Analytics Project having 6 KPIs solved by Advanced Excel,SQL,Tableau and PowerBI ``
 
 `` Dataset Name: HR_1 & HR_2
 
